@@ -21,7 +21,7 @@ It is coded considering OOP logic; therefore, ı create objects of classes to us
 
 - [Java] - Language
 - [Selenium] - open-source testing tool
-- [TestNg] - Test framework for java
+- [JUnit] - Test framework for java
 - [cucumber] - It is for BDD approach
 
 **Always testing!! :)**
